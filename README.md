@@ -1,0 +1,1 @@
+This simple To-Do app is designed to demonstrate how to fetch data from an API and handle routing in a React application powered by Vite. It leverages the powerful useEffect hook for side effects like fetching data and React Router for managing navigation across different pages.
